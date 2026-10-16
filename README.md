@@ -24,9 +24,9 @@ A dynamic JavaScript project built to demonstrate core programming concepts, DOM
 
 ##  Features
 
-* ** Core Logic:** Built with modern JavaScript (ES6+) for efficient execution.
-* ** DOM Manipulation:** Dynamic interaction with HTML elements in real-time.
-* ** Responsive Design:** Clean interface adaptable to different screen sizes.
+* ** Core Logic: Built with modern JavaScript (ES6+) for efficient execution.
+* ** DOM Manipulation: Dynamic interaction with HTML elements in real-time.
+* ** Responsive Design: Clean interface adaptable to different screen sizes.
 
 ---
 
